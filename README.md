@@ -35,12 +35,18 @@ Or  = true positive + true negative / dataset size
 
 ## Free-Form Visualization
  1.  Face detector and dog detector examples
+ 
+ 
   ![Hfd](https://github.com/Mostafa-ashraf19/CNN_Dog_Breed_Classifier/blob/master/assets/face%20detection.png?raw=true)
+  
   
   ![Dpred](https://github.com/Mostafa-ashraf19/CNN_Dog_Breed_Classifier/blob/master/assets/dog%20prediction.png?raw=true)
   
  2. CNN breed classifier results 
+ 
+ 
  ![Hres](https://github.com/Mostafa-ashraf19/CNN_Dog_Breed_Classifier/blob/master/assets/results/human_res1.png?raw=true)
+ 
  
  ![Dres](https://github.com/Mostafa-ashraf19/CNN_Dog_Breed_Classifier/blob/master/assets/results/dog_res1.png?raw=true)
  
